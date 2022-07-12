@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JulijaA
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning JavaScript.
+- 🧠 Skills: HTML/CSS, JavaScript, TypeScript, Angular, Git/GitHub/BitBucket, Bootstrap, Storybook ...
+- 🌱 I’m currently learning ReactJs.
 - 📫 How to reach me - https://www.linkedin.com/in/julija-atanasovska-5aa358116/
 
 <!---
